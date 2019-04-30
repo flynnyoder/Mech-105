@@ -41,3 +41,4 @@ end
                                          %Displaying the calculated value
 fprintf('The approximate area is %f',I)
 end
+ 
