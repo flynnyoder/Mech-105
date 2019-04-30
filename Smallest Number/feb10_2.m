@@ -10,3 +10,4 @@ while x~=0         %the while loop and if loop will only run when x is not equal
     end
 end
 fprintf('the smallest positive number used by Matlab is %s\n',small)   %displaying the final value of x that satisfies the above condition
+ 
