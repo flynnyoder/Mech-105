@@ -13,5 +13,10 @@ Uses Simpson's 1/3 rule and one iteration of the trapezoidal rule if necessary t
 Returns the number of days that have elapsed since the beginning of the year until a date chosen by the user.
 
 ###Percentage Calculator
-A siimple code to calculate a percentage given two numbers.
+A simple code to calculate a percentage given two numbers.
 
+###Smallest Number
+A simple code to determine the smallest positive number that a computer can store.
+
+###Bracketing Method
+Uses the bisection method to estimate the root of a function.
