@@ -1,0 +1,17 @@
+#**Mech-105 codes**
+####These codes were created for my Mechanical Engineering class in 2019.
+
+##**Codes**
+
+###LU Factorization
+Breaks down a 3x3 matrix into upper and lower tirangular matricies.
+
+###Simpsons
+Uses Simpson's 1/3 rule and one iteration of the trapezoidal rule if necessary to estimate the area under a set of data points.
+
+###Number of Days
+Returns the number of days that have elapsed since the beginning of the year until a date chosen by the user.
+
+###Percentage Calculator
+A siimple code to calculate a percentage given two numbers.
+
