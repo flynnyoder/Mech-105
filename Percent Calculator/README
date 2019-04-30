@@ -1,0 +1,13 @@
+##Percent Calculator
+
+This is a very simple code used to calculate the percentage of one number over another.
+
+###Inputs
+The code uses the *input* function to ask the user for dividend and divisor values.
+The script then divides the two numbers, multiplies by 100, and displays the percent.
+
+###Outputs
+The code releases a single output: a numeric value showing the percent of the dividend divided by the divisor.
+
+###Errors
+The code checks if the divisor is zero, and if it is, the code stops running and an Error message is displayed.
