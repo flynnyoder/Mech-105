@@ -1,6 +1,6 @@
 ## Days Elapsed Algorithm
 
-This algorithm prompts the user to input the date and tells the user how many days have elapsed since the beginning of the year.
+This function prompts the user to input the date and tells the user how many days have elapsed since the beginning of the year.
 
 ###Inputs
 This code uses the *menu* function to ask the user the month, day, and if it is a leap year or not. 
