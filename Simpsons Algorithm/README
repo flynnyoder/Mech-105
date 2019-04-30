@@ -1,0 +1,13 @@
+## Simpson's Algorithm
+
+This code uses *Simpson's 1/3 rule* and if necessary, one iteration of the *trapezoidal rule* to estimate the area under a graph. 
+The graph s input by the user in vector form.
+
+###Inputs
+The function requires an X and Y vector, with the x values equally spaced. 
+The functioon will display errors if more or less that two vectors are input, or if the X values aren't equally spaced. 
+If the X and Y vectors aren't equal in length, the function will display an error.
+
+###Outputs
+The function outputs a number telling the user what the approximate area under their curve is.
+The function also warns the user if the trapezoidal rule has been used in the calculation.
