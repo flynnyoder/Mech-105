@@ -2,12 +2,12 @@
 
 This function prompts the user to input the date and tells the user how many days have elapsed since the beginning of the year.
 
-###Inputs
+### Inputs
 This code uses the *menu* function to ask the user the month, day, and if it is a leap year or not. 
 
-###Outputs
+### Outputs
 The function displays a message saying *X days have elapsed this year* where X is the number of days.
 
-###Flaws
+### Flaws
 The code on;y has one real flaw, and that is that no matter what month is selected by the user, the user can choose any day 1-31 for the day of the month.
 This is only a problem for months like February or April. However, if the user enters the date correctly, there shouldn't be any problems.
