@@ -1,16 +1,16 @@
-##LU Factorization
+## LU Factorization
 
 This function takes a 3x3 matrix input by the user and decomposes it by using *LU Decomposition.*
 
-###Inputs
+### Inputs
 The function only accepts one input: a 3x3 matrix. If the matrix has other dimensions, the function won't work.
 
-###Outputs
+### Outputs
 This function returns three outputs. The first is a lower triangular matrix derived from the original matrix.
 The second is an upper triangular matrix. If these two matricies are multiplied, they will return the original matrix, although perhaps not in the right order.
 The final output is the pivot matrix. This matrix keeps track of the pivots made to the matricies during the LU Decomposition.
 If all three of these matricies are multiplied together, the original matrix will be returned. 
 
-###Errors
+### Errors
 The function will not run if the first input matrix does not have dimensions of 3x3.
 The function will return illogical values if the elements (1,1) and (2,1) are both zero.
