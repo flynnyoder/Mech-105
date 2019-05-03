@@ -1,22 +1,22 @@
-#**Mech-105 codes**
+# **Mech-105 codes**
 ####These codes were created for my Mechanical Engineering class in 2019.
 
-##**Codes**
+## **Codes**
 
-###LU Factorization
+### LU Factorization
 Breaks down a 3x3 matrix into upper and lower tirangular matricies.
 
-###Simpsons Algorithm
+### Simpsons Algorithm
 Uses Simpson's 1/3 rule and one iteration of the trapezoidal rule if necessary to estimate the area under a set of data points.
 
-###Number of Days
+### Number of Days
 Returns the number of days that have elapsed since the beginning of the year until a date chosen by the user.
 
-###Percentage Calculator
+### Percentage Calculator
 A simple code to calculate a percentage given two numbers.
 
-###Smallest Number
+### Smallest Number
 A simple code to determine the smallest positive number that a computer can store.
 
-###Bracketing Method
+### Bracketing Method
 Uses the bisection method to estimate the root of a function.
