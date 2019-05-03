@@ -1,16 +1,16 @@
-##Bracketing Method
+## Bracketing Method
 
 This function uses the *bisection method* to estimate the root of a function input by the user.
 
-###Inputs
+### Inputs
 This function requires 3-5 inputs. The 3 that are required are the function and the first lower and upper bounds.
 The next two inputs are the stopping criterion and the maximum iterations the function will complete.
 If these two inputs are not entered, they default to 0.000001 and 200 respectively.
 
-###Outputs
+### Outputs
 This function has 4 outputs: the root, the value of the function at the root, the approximate relative error, and the iterations used to find the root.
 
-###Errors
+### Errors
 This function will only work if the curve has a root within the first brackets specified by the user.
 For specific cases where the iterations required are more than the maximum iterations input by the user, the function will return an inaccurate estimate.
 The function will not run if there are less than 3 inputs.
