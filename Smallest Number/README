@@ -1,6 +1,6 @@
-##Smallest Number
+## Smallest Number
 
 This simple code was made to determine the smallest positive number that can be stored by a computer while using Matlab.
 
-###Outputs
+### Outputs
 The code outputs a single number, the smallest number above zero that the computer can store.
